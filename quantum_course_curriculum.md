@@ -1,4 +1,5 @@
-# Quantum Software for Hardware Companies - 3-Month Course
+# Quantum Training Course 
+# 3 Months Crash Course
 
 ## Course Overview
 
